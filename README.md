@@ -1,3 +1,3 @@
-# ankkajahti  
+# egypt
   
-Ankkajahti on Unityn pelimoottorilla ja C#-kielellä luotu peli. Tavoitteena on kerätä kolme ankkaa.
+3D-maisema Egyptistä. Luotu Unityllä, Unityn terrain-objekteilla ja kielellä C#. Maisemaa ei ole pelillistetty.
